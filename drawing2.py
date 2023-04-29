@@ -36,3 +36,4 @@ plt.xticks(range(0, df.shape[0], 12), df.date.values[::12], horizontalalignment=
 plt.ylim(y_LL, y_UL)
 plt.xlim(-2, 80)
 plt.show()
+
